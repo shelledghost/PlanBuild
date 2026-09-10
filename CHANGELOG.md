@@ -1,3 +1,9 @@
+# Version 0.18.8
+* Proper Release build with the built plugin DLL included in the Thunderstore package
+
+# Version 0.18.7
+* Re-versioned after a Thunderstore upload of 0.18.6 was published without the built plugin DLL; no functional changes from 0.18.6
+
 # Version 0.18.6
 * Noted fork origin (this is a fork of sirskunkalot's PlanBuild) and 1.0 compatibility in the mod description, README, and icon
 * Updated website_url to point at the fork's repository
