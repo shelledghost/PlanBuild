@@ -1,3 +1,7 @@
+# Version 0.18.6
+* Noted fork origin (this is a fork of sirskunkalot's PlanBuild) and 1.0 compatibility in the mod description, README, and icon
+* Updated website_url to point at the fork's repository
+
 # Version 0.18.5
 * Compatible with Valheim 1.0.7
 * Fixed crash on player spawn (camera snapping to world origin and infinite player spawn loop) caused by `Hoverable` gaining a new `GetHoverOffset` member and `PieceTable.m_availablePieces` changing shape in Valheim 1.0.7

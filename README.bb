@@ -1,4 +1,6 @@
 [size=6][b]PlanBuild[/b][/size]
+[i]This is a fork of sirskunkalot's PlanBuild (https://github.com/sirskunkalot/PlanBuild), updated for compatibility with Valheim 1.0.[/i]
+
 PlanBuild enables you to plan, copy and share your building creations in Valheim with ease. The mod adds two new tools to the game. The [b]Plan Hammer[/b] is used to plan your creations before actually gathering all the materials. When you are happy with your build, you can add the required building materials one by one or use a custom totem to automatically build the pieces for you. The [b]Blueprint Rune[/b] lets you copy, save or delete your creations as a single building piece which can also be shared with other players using the mod and also includes terrain modification tools for quick and more precise terraforming without using the Hoe or Cultivator.
 
 [size=5][b]Planning[/b][/size]
